@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simeth-sol&label=Profile%20views&color=0e75b6&style=flat" alt="simeth-sol" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ogbuokwa" target="blank"><img src="https://img.shields.io/twitter/follow/ogbuokwa?logo=twitter&style=for-the-badge" alt="ogbuokwa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/simon_onchain" target="blank"><img src="https://img.shields.io/twitter/follow/simon_onchain?logo=twitter&style=for-the-badge" alt="simon_onchain" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity Smart Contract Development**
+- 🌱 I’m currently learning **Building**
 
 - 💬 Ask me about **Solidity, JavaScript and React**
 
